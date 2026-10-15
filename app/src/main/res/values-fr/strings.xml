@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Ghadd</string>
+    <string name="tagline">Garder son regard… le début de garder son cœur</string>
+    <string name="status_on">● Protection activée</string>
+    <string name="status_off">○ Protection désactivée</string>
+    <string name="blocked_today">Bloqué aujourd\'hui : %1$d tentatives</string>
+    <string name="streak">Série de pureté : %1$d jours 🌿</string>
+    <string name="btn_start">Démarrer la protection</string>
+    <string name="btn_stop">Arrêter la protection</string>
+    <string name="pause_title">Un moment avec soi-même</string>
+    <string name="pause_quote">L\'imam al-Shafi\'i a dit : « Je me suis plaint à Waki\' de ma mauvaise mémoire ; il m\'a conseillé d\'abandonner le péché. » Le cœur est comme le regard : on le protège en prenant les moyens.</string>
+    <string name="pause_question">L\'application vous protège-t-elle efficacement ?</string>
+    <string name="yes_lock">Oui, verrouiller la protection</string>
+    <string name="not_yet">Pas encore</string>
+    <string name="yes_note">Deux étapes : activer le service de protection, puis l\'autorisation anti-désinstallation. La décision vous appartient : un engagement pris dans la force pour vous protéger dans la faiblesse.</string>
+    <string name="lock_on">🔒 Protection anti-désinstallation activée</string>
+    <string name="req_disable">Demander la désactivation (après 24 h)</string>
+    <string name="disable_requested">Demande enregistrée. Si vous le souhaitez encore dans 24 heures, vous pourrez continuer. Les moments de faiblesse passent.</string>
+    <string name="disable_wait">Encore %1$d heures avant de pouvoir désactiver.</string>
+    <string name="unlock_open">La fenêtre est ouverte pendant 10 minutes.</string>
+    <string name="remove_admin">Retirer l\'autorisation d\'administrateur</string>
+    <string name="blocked_msg">Qu\'Allah vous protège. Revenez à ce qui vous est utile.</string>
+    <string name="admin_explanation">Cette autorisation empêche la désinstallation dans les moments de faiblesse.</string>
+    <string name="admin_disable_warning">Êtes-vous sûr ? Ce moment de faiblesse va passer… souvenez-vous de votre engagement.</string>
+    <string name="a11y_description">Protège les pages de navigation et empêche de désactiver l\'application. Aucune donnée ne quitte l\'appareil.</string>
+    <string name="step_a11y">Étape 1 : activez le service Ghadd dans les paramètres d\'accessibilité, puis revenez.</string>
+    <string name="vpn_denied">Autorisation VPN refusée.</string>
+    <string name="locked_msg">L\'arrêt est verrouillé. Utilisez « Demander la désactivation » et attendez 24 heures.</string>
+    <string name="language">Langue</string>
+</resources>

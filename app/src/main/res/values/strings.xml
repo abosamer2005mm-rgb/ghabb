@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">غَضّ</string>
+    <string name="tagline">حفظ البصر… بداية حفظ القلب</string>
+    <string name="status_on">● الحماية مُفعّلة</string>
+    <string name="status_off">○ الحماية متوقفة</string>
+    <string name="blocked_today">حُجب اليوم: %1$d محاولة</string>
+    <string name="streak">أيام النقاء المتتالية: %1$d يوماً 🌿</string>
+    <string name="btn_start">تشغيل الحماية</string>
+    <string name="btn_stop">إيقاف الحماية</string>
+    <string name="pause_title">وقفة مع النفس</string>
+    <string name="pause_quote">قال الشافعي رحمه الله: «شكوتُ إلى وكيعٍ سوءَ حفظي، فأرشدني إلى ترك المعاصي». والقلب كالبصر: يُحفظ بالأخذ بالأسباب.</string>
+    <string name="pause_question">هل التطبيق فعّال في حمايتك؟</string>
+    <string name="yes_lock">نعم، ثبّت الحماية</string>
+    <string name="not_yet">ليس بعد</string>
+    <string name="yes_note">سنطلب منك خطوتين: تفعيل خدمة الحماية ثم صلاحية منع الحذف. أنت من يقرر ذلك، وهذا عهد تقطعه وأنت قويّ لتحفظ نفسك وقت الضعف.</string>
+    <string name="lock_on">🔒 حماية منع الحذف مفعّلة</string>
+    <string name="req_disable">طلب إيقاف الحماية (بعد 24 ساعة)</string>
+    <string name="disable_requested">سُجّل طلبك. إن بقيتَ راغباً بعد 24 ساعة يمكنك المتابعة. غالباً تمرّ لحظة الضعف.</string>
+    <string name="disable_wait">بقي %1$d ساعة على إمكانية الإيقاف.</string>
+    <string name="unlock_open">النافذة مفتوحة الآن لمدة 10 دقائق.</string>
+    <string name="remove_admin">إلغاء صلاحية المسؤول</string>
+    <string name="blocked_msg">حفظك الله. عُد إلى ما ينفعك.</string>
+    <string name="admin_explanation">تفعيل هذه الصلاحية يمنع حذف التطبيق في لحظات الضعف.</string>
+    <string name="admin_disable_warning">هل أنت متأكد؟ هذه لحظة ضعف تمر… تذكّر عهدك مع نفسك.</string>
+    <string name="a11y_description">تحمي هذه الخدمة صفحات التصفح وتمنع تعطيل التطبيق. لا تُرسل أي بيانات خارج الجهاز.</string>
+    <string name="step_a11y">الخطوة 1: فعّل خدمة «غَضّ» من إعدادات إمكانية الوصول ثم ارجع.</string>
+    <string name="vpn_denied">لم تُمنح صلاحية الـ VPN.</string>
+    <string name="locked_msg">الإيقاف مقفل. استخدم «طلب إيقاف الحماية» وانتظر 24 ساعة.</string>
+    <string name="language">اللغة</string>
+</resources>

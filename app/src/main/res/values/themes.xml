@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.Ghadd" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/green</item>
+        <item name="android:colorAccent">@color/gold</item>
+    </style>
+</resources>

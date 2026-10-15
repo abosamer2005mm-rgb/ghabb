@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Ghadd</string>
+    <string name="tagline">Guarding the gaze… the start of guarding the heart</string>
+    <string name="status_on">● Protection is ON</string>
+    <string name="status_off">○ Protection is OFF</string>
+    <string name="blocked_today">Blocked today: %1$d attempts</string>
+    <string name="streak">Clean streak: %1$d days 🌿</string>
+    <string name="btn_start">Start protection</string>
+    <string name="btn_stop">Stop protection</string>
+    <string name="pause_title">A moment with yourself</string>
+    <string name="pause_quote">Imam al-Shafi\'i said: \"I complained to Waki\' about my poor memory, and he advised me to abandon sin.\" The heart is like the eye: it is guarded by taking the means.</string>
+    <string name="pause_question">Is the app effective in protecting you?</string>
+    <string name="yes_lock">Yes, lock the protection</string>
+    <string name="not_yet">Not yet</string>
+    <string name="yes_note">Two steps: enable the protection service, then the uninstall-protection permission. The decision is yours — a pledge made while strong, to protect you while weak.</string>
+    <string name="lock_on">🔒 Uninstall protection is ON</string>
+    <string name="req_disable">Request to disable protection (after 24h)</string>
+    <string name="disable_requested">Request recorded. If you still wish so after 24 hours, you may proceed. Weak moments usually pass.</string>
+    <string name="disable_wait">%1$d hours left before you can disable.</string>
+    <string name="unlock_open">The window is open for 10 minutes.</string>
+    <string name="remove_admin">Remove admin permission</string>
+    <string name="blocked_msg">May Allah protect you. Return to what benefits you.</string>
+    <string name="admin_explanation">This permission prevents uninstalling the app in moments of weakness.</string>
+    <string name="admin_disable_warning">Are you sure? This weak moment will pass… remember your pledge.</string>
+    <string name="a11y_description">Protects browsing pages and prevents disabling the app. No data leaves the device.</string>
+    <string name="step_a11y">Step 1: enable the Ghadd service in Accessibility settings, then come back.</string>
+    <string name="vpn_denied">VPN permission was not granted.</string>
+    <string name="locked_msg">Stopping is locked. Use \"Request to disable\" and wait 24 hours.</string>
+    <string name="language">Language</string>
+</resources>
